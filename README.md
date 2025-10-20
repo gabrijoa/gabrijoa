@@ -38,4 +38,4 @@ Currently, I am enhancing my skill set by studying a range of technologies, incl
 ## 🌐 Social Medias
 👔 [LinkedIn][linkedin]
 
-[linkedin]: https://linkedin.com/in/gabrijoa
+[linkedin]: https://linkedin.com/in/joagabri
