@@ -4,11 +4,11 @@ I excel in problem-solving and utilizing my creativity. 🤷‍♂️
 
 ## About Me
 
-<img align="right" width="270" src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" />
-
-My name is João Gabriel, and I'm a full-stack developer from Brazil.  
-My background includes a degree in Systems Analysis and Development and a passion for solving problems in my environment 
-Currently, I am enhancing my skill set by studying a range of technologies, including **Python, typescript, DevOps, Frameworks, Cloud computing, and data concepts**.
+I’m a full-stack developer from Brazil, focused on building practical and scalable solutions.
+I have a background in Systems Analysis and Development and enjoy exploring the intersection between code, data, and cloud infrastructure.
+I’m driven by curiosity and creativity. I like understanding how things work and then breaking them apart to make them simpler or more meaningful
+> I used to overthink how to describe what I do, but I realized it’s simple: I like solving problems and making things look and feel right. 
+:)
 
 ---
 
