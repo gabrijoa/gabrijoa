@@ -1,6 +1,6 @@
 # 👋
 
-I excel in problem-solving and utilizing my creativity. 🤷‍♂️
+I excel in problem-solving and utilizing my creativity :P
 
 ## About Me
 
