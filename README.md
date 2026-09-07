@@ -1,7 +1,5 @@
 # 👋
-
-I excel in problem-solving and utilizing my creativity :P
-
+Full-stack software engineer with 4 years of experience in projects involving data, AI, backend, and cloud computing. My work is diverse: I’ve collaborated with marketing, data, and operations teams! I always strive to understand the business logic before writing the first line of code.
 ## About Me
 
 I’m a full-stack developer from Brazil, focused on building practical and scalable solutions.
